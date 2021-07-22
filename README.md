@@ -1,4 +1,4 @@
-This is my personal project to learn and experiment with git commands.
+This is my personal project for experiment and get my hands-on with git commands.
 
 Miniport by HTML5 UP
 html5up.net | @ajlkn
